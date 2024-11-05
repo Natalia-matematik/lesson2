@@ -1,0 +1,7 @@
+my_string=input("Введите строку: ")
+print(len('Самый быстрый самолёт в мире'))
+print('Самый быстрый самолёт в мире'. upper())
+print('Самый быстрый самолёт в мире'. lower())
+print('Самый быстрый самолёт в мире'. replace(' ',''))
+print(my_string[0])
+print(my_string[-1])
